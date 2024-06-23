@@ -1,0 +1,2 @@
+rootProject.name = 'kafka-java-in-action'
+include('producer')
